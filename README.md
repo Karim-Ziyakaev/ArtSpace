@@ -6,8 +6,8 @@ Art Space - это приложение для Android, разработанно
 ![Главный экран](https://github.com/Karim-Ziyakaev/ArtSpace/assets/72754523/df8d345a-74ad-4d5a-bb8a-f7cde4ab1a07)
 
 ## Работа приложения
-![video](https://github.com/Karim-Ziyakaev/ArtSpace/assets/72754523/bd4ed8da-9545-4427-b5c7-a435e74fd859)
 
+https://github.com/Karim-Ziyakaev/ArtSpace/assets/72754523/e0c9a873-1ce3-43c6-b50c-a2e37b2d0a27
 
 ## Особенности
 
