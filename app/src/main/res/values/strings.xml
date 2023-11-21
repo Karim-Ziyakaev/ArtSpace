@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="app_bar">Art Space</string>
+    <string name="kremlin">Kazan kremlin</string>
+    <string name="palace">Farmer\'s palace</string>
+    <string name="kul_sharif">Kul Sharif Mosque</string>
+    <string name="kaban_lake">Kaban Lake</string>
+    <string name="old_tatar">Staro-Tatarskaya Sloboda</string>
+    <string name="kremlin_description">Official residence of the Head of the Republic of Tatarstan; a UNESCO World Heritage Site since 2000 and a cultural heritage site of Russia of federal significance. The main city attraction and “calling card” of Kazan.</string>
+    <string name="kul_sharif_description">The main juma mosque of the Republic of Tatarstan and the city of Kazan (since 2005), located on the territory of the Kazan Kremlin. One of the main attractions of the city.</string>
+    <string name="palace_description">Headquarters of the Ministry of Agriculture and Food of the Republic of Tatarstan</string>
+    <string name="kaban_lake_description">A system of lakes located within the city limits of Kazan.</string>
+    <string name="old_tatar_description">One of the historical parts and complex attractions in the center of Kazan</string>
+</resources>
